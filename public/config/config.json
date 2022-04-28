@@ -9,7 +9,7 @@
   "NFT_NAME": "Alien Invasion NFT",
   "SYMBOL": "AINFT",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 3932780,41,
+  "WEI_COST": 3932780,
   "DISPLAY_COST": 15,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
